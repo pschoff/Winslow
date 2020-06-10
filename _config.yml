@@ -18,10 +18,10 @@ email: peter.schoffelen@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Meandering of the mind
 baseurl: "/winslow" # the subpath of your site, e.g. /blog
-url: "https://pschoff.github.io/Winslow/" # the base hostname & protocol for your site, e.g. http://example.com
+url: ""https://patdryburgh.github.io"" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
-twitter_username: patdryburgh
-github_username:  patdryburgh
+twitter_username: pschoff
+github_username:  pschoff
 
 # Build settings
 markdown: kramdown
